@@ -483,5 +483,5 @@ end
 
 end
 return {
-Peland = games
+Poyka = games
 }
